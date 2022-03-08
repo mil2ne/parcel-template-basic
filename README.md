@@ -16,3 +16,8 @@
   }
 
 ```
+
+## autoprefixer
+- `npm i -D postcss autoprefixer`
+- PostCSS plugin autoprefixer requires PostCSS 8 관련에러 확인 시 
+  - `npm i -D autoprefixer@9`
