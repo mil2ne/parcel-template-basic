@@ -21,3 +21,7 @@
 - `npm i -D postcss autoprefixer`
 - PostCSS plugin autoprefixer requires PostCSS 8 관련에러 확인 시 
   - `npm i -D autoprefixer@9`
+
+## babel
+- `npm i -D @babel/core @babel/preset-env`
+- `npm i -D @babel/plugin-transform-runtime`
